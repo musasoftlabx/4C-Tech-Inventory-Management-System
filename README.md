@@ -1,1 +1,1 @@
-# 4C-Tech-Iventory-Management-System
+# 4C-Tech-Inventory-Management-System
